@@ -12,6 +12,11 @@ I have built a comprehensive **Healthcare Claims Analytics Platform** aligned wi
 ## 🚀 Live Demo
 Live preview: https://healthclaims-1.preview.emergentagent.com/
 
+<p align="center">
+  <img src="dashboard-screenshot.png.png" alt="Healthcare Analytics Dashboard" width="100%" />
+</p>
+
+
 ## ⚙️ Tech Stack
 - Frontend: React + Shadcn UI
 - Backend: FastAPI + MongoDB
