@@ -20,4 +20,3 @@ Live preview: https://healthclaims-1.preview.emergentagent.com/
 
 ## 📬 How to view
 - Click the **Live Demo** link above to open the platform preview.
-- (Optional) If deployed to GitHub Pages, this repo will redirect to the live preview.
